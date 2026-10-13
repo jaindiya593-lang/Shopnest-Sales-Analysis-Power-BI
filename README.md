@@ -6,6 +6,8 @@ This project uses Microsoft Power BI to explore e-commerce sales data and presen
 ## Dashboard Preview
 The dashboard preview will be added here after uploading a screenshot of the completed report.
 
+![ShopNest Power BI Dashboard](shopnest-dashboard.jpg)
+
 ## Business Questions
 - How does revenue vary across product categories and states?
 - What sales trends can be observed over time?
